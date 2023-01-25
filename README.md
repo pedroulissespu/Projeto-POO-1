@@ -27,4 +27,4 @@ d) Sobrecarregue o método mover, mas ao invés de receber uma String, ele rece 
 parâmetro um inteiro de 1 a 4, onde 1 representa “up”, 2 representa “down”, 3
 representa “right” e 4 representa “left”
 e) Um método que verifique se o robô encontrou o alimento (está na mesma posição) e
-retorne um boolean
+retorne um boolean.
